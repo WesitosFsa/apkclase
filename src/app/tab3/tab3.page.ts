@@ -6,6 +6,7 @@ import {PhotoService} from '../services/photo.service';
   templateUrl: 'tab3.page.html',
   styleUrls: ['tab3.page.scss']
 })
+// hika probando token
 export class Tab3Page {
 
   constructor (public photoService: PhotoService){ };
